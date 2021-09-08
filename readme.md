@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi Hello! 👋
 
-Here are some ideas to get you started:
+Here is my personal profile:
 
 - 🔭 I’m currently working on CSP exam.
 - 🌱 I’m currently learning Golang, Python.
